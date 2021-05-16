@@ -8,7 +8,7 @@ package t100;
  * 思想:
  *  动态规划, dp数组和状态转移.
  */
-public class t64 {
+public class T64 {
     public int minPathSum(int[][] grid) {
         int m = grid.length;
         if (m==0) return 0;
