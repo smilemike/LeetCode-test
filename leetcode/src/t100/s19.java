@@ -1,6 +1,6 @@
 package t100;
 
-import com.learn.ListNode;
+import common.ListNode;
 
 /**
  * 删除链表的倒数第N个节点
